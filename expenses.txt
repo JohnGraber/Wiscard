@@ -1,0 +1,156 @@
+8/31 03:23 PM	Urban Slice 2 - Charge	-1.94	412.17
+9/01 05:29 PM	Four Lakes Market 6 - Charge	-5.75	406.42
+9/02 08:23 AM	Carson's Market 1 - Charge	-1.32	405.10
+9/02 10:33 AM	Memorial Lib Ref - Charge	-1.40	403.70
+9/02 11:18 AM	Harvest Grains 2 - Charge	-6.89	396.81
+9/02 06:18 PM	Gordon Market 2 - Charge	-3.12	393.69
+9/03 01:58 PM	Harvest Grains 2 - Charge	-7.36	386.33
+9/03 03:22 PM	Mathematics Department - Charg	-15.00	371.33
+9/03 06:39 PM	Four Lakes Market 2 - Charge	-2.65	368.68
+9/04 03:49 PM	Gordon Market 2 - Charge	-2.34	366.34
+9/05 01:57 PM	Four Lakes Market 2 - Charge	-1.28	365.06
+9/05 06:09 PM	Four Lakes Market 2 - Charge	-3.32	361.74
+9/06 11:23 AM	Four Lakes Market 3 - Charge	-2.54	359.20
+9/06 04:32 PM	Four Lakes Market 6 - Charge	-1.88	357.32
+9/07 02:07 PM	Carson's Market 1 - Charge	-5.10	347.22
+9/07 06:45 PM	Four Lakes Market 2 - Charge	-3.80	343.42
+9/08 12:59 PM	Harvest Grains 2 - Charge	-7.12	336.30
+9/08 08:17 PM	Carson's Market 1 - Charge	-2.33	333.97
+9/09 11:02 AM	Harvest Grains 2 - Charge	-7.12	326.85
+9/09 05:07 PM	Four Lakes Market 2 - Charge	-5.30	321.55
+9/10 01:04 PM	Harvest Grains 1 - Charge	-7.12	314.43
+9/10 05:10 PM	Four Lakes Market 6 - Charge	-6.28	308.15
+9/11 11:07 AM	Carson's Market 1 - Charge	-3.35	263.92
+9/11 02:35 PM	Gordon Market 3 - Charge	-5.78	258.14
+9/11 09:47 PM	Gordon Market 1 - Charge	-6.67	251.47
+9/11 09:59 PM	Gordon Market 1 - Charge	-3.48	247.99
+9/12 12:09 PM	Gordon Market 3 - Charge	-5.47	242.52
+9/12 05:59 PM	Four Lakes Market 3 - Charge	-2.48	240.04
+9/13 11:31 AM	Gordon Market 5 - Charge	-4.87	235.17
+9/13 06:27 PM	Four Lakes Market 4 - Charge	-4.91	230.26
+9/14 11:06 AM	Harvest Grains 1 - Charge	-6.65	223.61
+9/14 05:23 PM	Four Lakes Market 6 - Charge	-3.79	219.82
+9/14 09:03 PM	Four Lakes Market 6 - Charge	-4.11	215.71
+9/15 09:00 AM	Carson's Market 1 - Charge	-3.47	212.24
+9/15 02:16 PM	Urban Slice 2 - Charge	-2.61	209.63
+9/15 06:21 PM	Carson's Market 1 - Charge	-5.89	203.74
+9/15 09:25 PM	Four Lakes FR 1 - Charge	-3.19	200.55
+9/16 11:14 AM	Harvest Grains 2 - Charge	-7.12	193.43
+9/16 04:42 PM	Ingraham 1 - Charge	-1.90	191.53
+9/16 08:58 PM	Four Lakes Market 4 - Charge	-9.42	182.11
+9/17 09:00 AM	Carson's Market 1 - Charge	-2.27	179.84
+9/17 01:22 PM	Gordon Market 3 - Charge	-5.06	174.78
+9/17 05:33 PM	Four Lakes Market 6 - Charge	-4.18	170.60
+9/17 05:42 PM	Four Lakes Market 2 - Charge	-0.63	169.97
+9/17 06:28 PM	Four Lakes FR 1 - Charge	-1.51	168.46
+9/18 10:42 AM	Carson's Market 2 - Charge	-4.38	164.08
+9/18 11:02 AM	Carson's Market 2 - Charge	-2.39	161.69
+9/18 02:52 PM	Gordon Market 2 - Charge	-4.77	156.92
+9/19 10:55 AM	Gordon Market 2 - Charge	-8.02	148.90
+9/19 02:04 PM	Four Lakes FR 1 - Charge	-1.43	147.47
+9/20 11:27 AM	Four Lakes Market 2 - Charge	-9.02	138.45
+9/20 07:47 PM	Four Lakes Market 5 - Charge	-5.69	125.26
+9/21 11:00 AM	Harvest Grains 2 - Charge	-6.89	118.37
+9/21 07:29 PM	Four Lakes Market 6 - Charge	-6.17	112.20
+9/22 01:15 PM	Gordon Market 3 - Charge	-4.88	107.32
+9/22 07:33 PM	Four Lakes Market 2 - Charge	-6.08	101.24
+9/23 08:25 AM	TLC Liz - Charge	-1.12	100.12
+9/23 09:36 AM	Prairie Fire 1 - Charge	-2.28	97.84
+9/23 02:37 PM	Carson's Market 1 - Charge	-5.55	92.29
+9/23 08:40 PM	Four Lakes Market 6 - Charge	-5.23	87.06
+9/24 08:57 AM	Ingraham 1 - Charge	-1.90	85.16
+9/24 12:59 PM	Harvest Grains 1 - Charge	-7.12	78.04
+9/24 07:50 PM	Four Lakes Market 5 - Charge	-5.70	72.34
+9/25 10:38 AM	Carson's Market 1 - Charge	-6.42	65.92
+9/25 03:51 PM	Four Lakes FR 1 - Charge	-0.79	65.13
+9/25 04:41 PM	Four Lakes Market 6 - Charge	-3.63	61.50
+9/27 08:36 PM	Four Lakes Market 2 - Charge	-5.97	55.53
+9/28 08:26 AM	Ingraham 1 - Charge	-1.30	54.23
+9/28 11:08 AM	Harvest Grains 2 - Charge	-6.89	247.34
+9/28 08:07 PM	Four Lakes Market 2 - Charge	-5.38	241.96
+9/29 10:53 AM	Ingraham 4 - Charge	-5.61	236.35
+9/29 01:09 PM	Rheta's Market 2 - Charge	-1.03	235.32
+9/30 08:35 AM	Ingraham 1 - Charge	-1.30	234.02
+9/30 09:54 AM	Prairie Fire 2 - Charge	-1.66	232.36
+9/30 11:11 AM	Harvest Grains 2 - Charge	-6.89	225.47
+9/30 05:08 PM	Four Lakes Market 4 - Charge	-4.70	220.77
+10/01 09:22 AM	Ingraham 1 - Charge	-1.30	219.47
+10/01 01:48 PM	Carson's Market 1 - Charge	-3.35	216.12
+10/01 07:38 PM	Four Lakes Market 4 - Charge	-5.82	210.30
+10/02 08:51 AM	Four Lakes Market 6 - Charge	-4.97	205.33
+10/02 09:20 AM	Four Lakes Market 6 - Charge	-0.90	204.43
+10/05 08:24 AM	TLC Liz - Charge	-0.21	204.22
+10/05 10:48 AM	Harvest Grains 2 - Charge	-6.89	197.33
+10/05 05:03 PM	Four Lakes Market 2 - Charge	-5.48	184.35
+10/06 09:10 AM	Carson's Market 1 - Charge	-2.62	181.73
+10/06 02:48 PM	Four Lakes Market 6 - Charge	-1.83	179.90
+10/06 02:52 PM	Four Lakes Market 6 - Charge	-2.65	177.25
+10/07 08:28 AM	Carson's Market 1 - Charge	-2.65	174.60
+10/07 11:21 AM	Urban Slice 2 - Charge	-3.56	171.04
+10/07 05:53 PM	Four Lakes Market 6 - Charge	-7.39	163.65
+10/08 09:20 AM	Ingraham 1 - Charge	-1.30	162.35
+10/08 12:58 PM	Harvest Grains 1 - Charge	-7.12	155.23
+10/08 04:55 PM	Four Lakes Market 4 - Charge	-4.29	150.94
+10/09 12:32 PM	Carson's Market 2 - Charge	-6.38	144.56
+10/09 07:37 PM	Gordon Market 1 - Charge	-1.25	143.31
+10/10 12:36 PM	Carson's Market 2 - Charge	-4.37	138.94
+10/10 12:45 PM	Carson's Market 1 - Charge	-1.08	137.86
+10/11 10:28 AM	Four Lakes Market 6 - Charge	-5.51	132.35
+10/11 10:58 AM	Four Lakes Market 6 - Charge	-2.22	130.13
+10/12 08:40 AM	TLC Liz - Charge	-0.21	129.92
+10/12 09:48 AM	Prairie Fire 2 - Charge	-1.66	128.26
+10/12 10:48 AM	Harvest Grains 2 - Charge	-6.89	121.37
+10/12 06:56 PM	Carson's Market 2 - Charge	-6.58	114.79
+10/13 09:28 AM	Ingraham 1 - Charge	-1.30	113.49
+10/13 12:58 PM	Urban Slice 1 - Charge	-6.17	107.32
+10/14 10:40 AM	Harvest Grains 2 - Charge	-7.36	99.96
+10/14 05:42 PM	Four Lakes Market 4 - Charge	-7.41	92.55
+10/14 06:00 PM	Four Lakes Market 4 - Charge	-1.38	91.17
+10/15 01:07 PM	Urban Slice 2 - Charge	-3.56	87.61
+10/15 04:57 PM	Four Lakes Market 4 - Charge	-7.25	72.86
+10/16 01:01 PM	Badger MS 1 - Charge	-4.73	68.13
+10/16 05:04 PM	Four Lakes Market 6 - Charge	-4.94	63.19
+10/16 07:51 PM	Gordon Market 4 - Charge	-1.03	62.16
+10/17 09:25 AM	Badger US 2 - Charge	-4.01	58.15
+10/18 02:27 PM	Four Lakes Market 6 - Charge	-4.29	53.86
+10/18 07:10 PM	Four Lakes Market 4 - Charge	-6.05	47.81
+10/19 09:21 AM	Carson's Market 1 - Charge	-2.98	144.83
+10/19 11:29 AM	TLC Liz - Charge	-0.28	144.55
+10/19 02:18 PM	Harvest Grains 1 - Charge	-6.89	137.66
+10/19 05:15 PM	Four Lakes B&C 1 - Charge	-2.09	135.57
+10/19 08:14 PM	Four Lakes Market 4 - Charge	-5.32	130.25
+10/20 10:17 AM	Ingraham 1 - Charge	-1.90	128.35
+10/20 03:41 PM	Ingraham 1 - Charge	-3.15	125.20
+10/21 10:27 AM	Carson's Market 2 - Charge	-4.53	120.67
+10/21 02:16 PM	Harvest Grains 1 - Charge	-6.89	113.78
+10/21 05:44 PM	Four Lakes Market 6 - Charge	-7.81	105.97
+10/22 09:07 AM	Ingraham 1 - Charge	-1.30	104.67
+10/22 01:11 PM	Carson's Market 2 - Charge	-3.35	101.32
+10/22 07:01 PM	Four Lakes Market 4 - Charge	-5.16	96.16
+10/23 11:53 AM	Ingraham 4 - Charge	-6.92	89.24
+10/23 03:24 PM	Four Lakes Market 6 - Charge	-6.20	83.04
+10/23 09:24 PM	Four Lakes Market 6 - Charge	-4.29	78.75
+10/24 01:22 PM	Carson's Market 1 - Charge	-6.64	72.11
+10/24 07:55 PM	Gordon Market 2 - Charge	-2.50	69.61
+10/25 12:08 PM	Gordon Market 2 - Charge	-4.02	65.59
+10/25 01:28 PM	Four Lakes Market 3 - Charge	-0.90	64.69
+10/25 06:04 PM	Four Lakes Market 1 - Charge	-6.65	58.04
+10/26 09:44 AM	Prairie Fire 1 - Charge	-1.66	56.38
+10/26 10:45 AM	Harvest Grains 2 - Charge	-6.89	49.49
+10/26 06:05 PM	Rheta's Market 2 - Charge	-4.07	37.92
+10/27 10:50 AM	Badger MS 1 - Charge	-6.86	31.06
+10/27 02:46 PM	Four Lakes Market 6 - Charge	-4.22	126.84
+10/28 11:52 AM	Ingraham 2 - Charge	-4.01	122.83
+10/28 04:53 PM	Carson's Market 2 - Charge	-5.60	117.23
+10/29 10:52 AM	Badger MS 1 - Charge	-6.87	110.36
+10/29 04:59 PM	Carson's Market 2 - Charge	-6.38	103.98
+10/30 02:40 PM	Carson's Market 1 - Charge	-4.79	99.19
+11/01 11:57 AM	Carson's Market 2 - Charge	-7.01	92.18
+11/01 05:05 PM	Gordon Market 2 - Charge	-7.35	84.83
+11/02 10:33 AM	Harvest Grains 2 - Charge	-7.12	77.71
+11/02 07:48 PM	Gordon Market 6 - Charge	-4.68	73.03
+11/03 10:51 AM	Badger MS 1 - Charge	-6.92	66.11
+11/03 04:07 PM	Gordon Market 5 - Charge	-6.34	59.77
+11/04 09:53 AM	Prairie Fire 2	-1.99	57.78
+11/04 10:42 AM	Harvest Grains 2	-6.89	50.89
+11/04 05:01 PM	Gordon Market 4	-4.33	46.56
